@@ -1,7 +1,7 @@
 # quicksort-algorithm
 ## Introduction
 
-A quicksort algorithm consists of a code in which receives an unsorted list and performs in its worst case scenario O(n²), in an average case O(log n) and best case O(log n). 
+The quicksort algorithm consists of a code in which receives an unsorted list and performs in its worst case scenario O(n²), in an average case O(log n) and best case O(log n). 
 
 ## Under the hood
 
